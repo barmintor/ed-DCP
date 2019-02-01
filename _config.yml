@@ -49,4 +49,3 @@ exclude:
 theme: "ed."
 
 destination: docs
-keep_files: [texts/pages]
