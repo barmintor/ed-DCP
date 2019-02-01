@@ -47,3 +47,6 @@ exclude:
 
 # Theme
 theme: "ed."
+
+destination: docs
+keep_files: [texts/pages]
